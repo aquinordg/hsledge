@@ -1,4 +1,4 @@
-# SLEDge: Support, Length, Exclusivity and Difference for Group Evaluation
+# HammerSLEDge: Support, Length, Exclusivity and Difference Weigthed for Group Evaluation
 
 The package performs an evaluation of clustering results through the semantic relationship between the significant frequent patterns identified among the cluster items. The method uses an internal validation technique to evaluate the cluster rather than using distance-related metrics. However, the algorithm requires that the data be organized in CATEGORICAL FORM.
 
