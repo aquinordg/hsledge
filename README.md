@@ -1,4 +1,4 @@
-![Project](https://img.shields.io/badge/Project-HSLEDge-blue)
+![Project](https://img.shields.io/badge/Project-hsledge-blue)
 ![Author](https://img.shields.io/badge/Author-aquinordg-green)
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
@@ -6,13 +6,12 @@
 
 # HammerSLEDge (HSLEDge): Support, Length, Exclusivity and Difference Weigthed for Group Evaluation
 
-## Semantic Evaluation for Clustering Results
-
 HSLEDge is a Python library for evaluating clustering results using a semantic-based approach. Unlike traditional distance-based metrics, this method leverages the semantic relationship between significant frequent patterns identified among cluster items. This internal validation technique is particularly effective for data organized in **categorical form**.
 
 ---
 
-## Features
+## 🔥 Features
+
 - **Semantic Descriptors**: Analyze feature support in clusters.
 - **Particularization of Descriptors**: Refine cluster descriptors using customizable thresholds.
 - **SLED Indicators**: Evaluate clusters based on Support (S), Length deviation (L), Exclusivity (E), and Descriptor support Difference (D).
@@ -20,9 +19,9 @@ HSLEDge is a Python library for evaluating clustering results using a semantic-b
 
 ---
 
-## Installation
+## 🛠 Installation
 
-Install HSLEDge by *git* and *pip install*:
+Install using *git* and *pip install*:
 
 ```bash
 pip install git+https://github.com/aquinordg/hsledge.git
@@ -31,7 +30,7 @@ pip install git+https://github.com/aquinordg/hsledge.git
 
 ---
 
-## Usage
+## 🚀 Usage
 
 ### Importing the Library
 ```python
@@ -66,7 +65,7 @@ for i in range(num_clusters):
 
 ---
 
-## Functions Overview
+## 📜 Functions Overview
 
 ### `hsledge_score`
 **Computes the average HSLEDge score for all clusters.**
@@ -123,7 +122,13 @@ for i in range(num_clusters):
 
 ---
 
-## Contributing
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## 🤝 Contributing
 
 We welcome contributions to HSLEDge! To contribute:
 1. Fork this repository.
@@ -134,5 +139,16 @@ For questions or information, feel free to reach out at: [aquinordga@gmail.com](
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## 👨‍💻 Author
+
+Developed by AQUINO, R. D. G. (https://github.com/aquinordg).
+
+---
+
+## 💬 Feedback
+
+Feel free to open an issue or contact me for feedback or feature requests. Your input is highly appreciated!
+
+
+
+
